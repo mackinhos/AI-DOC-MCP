@@ -7,7 +7,7 @@ from typing import Optional, Dict, List
 from zhipuai import ZhipuAI  # 新增导入
 
 # 智谱开放平台API配置
-ZHIPU_API_KEY = "8a27b0ed6a9144b7a4aac2fb0887e727.8J8EYdyUEMFbnr5N"  # 更新API密钥
+ZHIPU_API_KEY = "YOUR-API-KEY"  # 更新API密钥
 ZHIPU_MODEL = "glm-4-flash-250414"  # 更新模型名称
 
 # ------------------------------
