@@ -27,7 +27,7 @@
 ### 魔搭创空间部署
 1. 克隆项目并进入目录
 2. 在魔搭平台获取API密钥（[获取地址](https://modelscope.cn/my/mykeys)）
-3. 在代码中替换`MODEL_API_KEY`为你的实际密钥
+3. 在代码中替换`ZHIPU_API_KEY`为你的实际密钥
 4. 配置启动命令：`python app.py`
 5. 服务将自动以MCP模式启动（端口7860）
 
