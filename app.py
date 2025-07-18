@@ -10,7 +10,6 @@ from zhipuai import ZhipuAI  # 新增导入
 ZHIPU_API_KEY = "8a27b0ed6a9144b7a4aac2fb0887e727.8J8EYdyUEMFbnr5N"  # 更新API密钥
 ZHIPU_MODEL = "glm-4-flash-250414"  # 更新模型名称
 
-# `pip install gradio` 是命令行指令，Python 文件中不应包含，且代码已导入 gradio，此指令应移除
 # ------------------------------
 # MCP协议工具函数（核心，需严格遵循规范）
 # ------------------------------
