@@ -1,0 +1,7 @@
+gradio>=4.26.0
+PyPDF2
+python-docx
+requests
+zhipuai
+gradio[mcp]>=4.26.0
+json5>=0.9.14
